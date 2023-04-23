@@ -1,0 +1,19 @@
+
+
+
+
+/* body>{
+  padding: var(--container-padding);
+} */
+
+html::-webkit-scrollbar-thumb{
+  display: none;
+}
+html::-webkit-scrollbar-button{
+  display: none;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
